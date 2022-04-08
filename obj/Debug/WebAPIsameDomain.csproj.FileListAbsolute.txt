@@ -1,0 +1,132 @@
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.dll.config
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.pdb
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Antlr3.Runtime.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.SqlServer.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Newtonsoft.Json.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Owin.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Net.Http.Formatting.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Helpers.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.Owin.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.WebHost.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Mvc.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Optimization.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Razor.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebGrease.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Newtonsoft.Json.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Net.Http.Formatting.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Helpers.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.WebHost.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Mvc.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Optimization.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Razor.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Antlr3.Runtime.pdb
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.SqlServer.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.Owin.xml
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.csprojResolveAssemblyReference.cache
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.dll
+C:\Users\Vignesh\Documents\Visual Studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.pdb
+C:\Users\Vignesh\documents\visual studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Vignesh\documents\visual studio 2013\Projects\WebAPIsameDomain\WebAPIsameDomain\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.dll.config
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebAPIsameDomain.pdb
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Antlr3.Runtime.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.SqlServer.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Newtonsoft.Json.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Owin.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Net.Http.Formatting.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Helpers.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.Owin.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.WebHost.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Mvc.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Optimization.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Razor.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebGrease.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Newtonsoft.Json.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Net.Http.Formatting.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Helpers.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.WebHost.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Mvc.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Optimization.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Razor.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Antlr3.Runtime.pdb
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\EntityFramework.SqlServer.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\bin\System.Web.Http.Owin.xml
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.csproj.AssemblyReference.cache
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.csproj.CoreCompileInputs.cache
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.csproj.CopyComplete
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.dll
+C:\Users\Mabalane\Downloads\WebAPIsameDomain\WebAPIsameDomain\obj\Debug\WebAPIsameDomain.pdb
